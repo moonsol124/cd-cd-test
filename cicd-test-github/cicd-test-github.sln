@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cicd-test-github", "cicd-test-github.csproj", "{BEC55450-8DD6-4B2B-98B5-B4CE9E16DB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{BB01FF21-5E12-4ADC-AF13-E74D560B542E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC55450-8DD6-4B2B-98B5-B4CE9E16DB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC55450-8DD6-4B2B-98B5-B4CE9E16DB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC55450-8DD6-4B2B-98B5-B4CE9E16DB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC55450-8DD6-4B2B-98B5-B4CE9E16DB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB01FF21-5E12-4ADC-AF13-E74D560B542E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB01FF21-5E12-4ADC-AF13-E74D560B542E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB01FF21-5E12-4ADC-AF13-E74D560B542E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB01FF21-5E12-4ADC-AF13-E74D560B542E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {883C6434-583E-4B63-A7D7-073CD53079E2}
+	EndGlobalSection
+EndGlobal

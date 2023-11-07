@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yOY//teh0d1tWWMXP58w+E2Dlsdpr4c4yvkmpG3QAPs=",
+  "Source": "cicd-test-github",
+  "BasePath": "_content/cicd-test-github",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

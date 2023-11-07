@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cicd-test-github.props" />
+</Project>
